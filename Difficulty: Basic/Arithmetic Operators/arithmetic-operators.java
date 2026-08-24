@@ -12,8 +12,8 @@ class GFG {
         int q=x-y;
         int r=x*y;
         
-           float s=(float)x/(float)y; 
-           int t=x/y;
+          float s=(float)x/(float)y; 
+          int t=x/y;
         int u=x%y;
 
         System.out.printf("%d %d %d %.3f %d %d", p, q, r, s, t, u);
